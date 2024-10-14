@@ -1,0 +1,14 @@
+br\com\fiap\biblioteca\dominio\Correios.class
+br\com\fiap\biblioteca\Main.class
+br\com\fiap\biblioteca\controller\AlunoController.class
+br\com\fiap\biblioteca\dominio\Mensageiro.class
+br\com\fiap\biblioteca\controller\LivroController.class
+br\com\fiap\biblioteca\dominio\RepositorioAlunos.class
+br\com\fiap\biblioteca\dominio\Endereco.class
+br\com\fiap\biblioteca\infra\dao\AlunoDAO.class
+br\com\fiap\biblioteca\dominio\Livro.class
+br\com\fiap\biblioteca\infra\dao\ConnectionFactory.class
+br\com\fiap\biblioteca\infra\viacep\CorreiosImpl.class
+br\com\fiap\biblioteca\dominio\Aluno.class
+br\com\fiap\biblioteca\service\AlunoService.class
+br\com\fiap\biblioteca\controller\MyResource.class
